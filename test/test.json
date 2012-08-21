@@ -1,0 +1,9 @@
+{
+	"class":"QWidget",
+	"properties":
+	{
+		"objectName": "widget",
+		"windowTitle": "Title",
+		"size": [400, 400]
+	}
+}
